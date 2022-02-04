@@ -3,6 +3,8 @@
 
 The Timer for stretch or training.
 
+[こちら](https://musemyuzu.github.io/ExerciseTimer/)から遊べます。
+
 # システム要件
 パソコン推奨。スマホだと数字が入力できません。<br>
 
