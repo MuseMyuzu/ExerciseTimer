@@ -3,6 +3,11 @@
 
 The Timer for stretch or training.
 
+
+<br>
+
+![アプリのイメージ](TimerImage.png)
+
 [こちら](https://musemyuzu.github.io/ExerciseTimer/)から遊べます。
 
 # システム要件
