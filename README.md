@@ -1,4 +1,4 @@
-# 運動用タイマー ExerciseTimer
+# エクササイズタイマー ExerciseTimer
 ストレッチ・筋トレなどに使えるタイマーです。<br>
 
 The Timer for stretch or training.
