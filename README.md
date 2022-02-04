@@ -40,3 +40,5 @@ Twitter は[こちら](https://twitter.com/musemyuzu)
 効果音は OtoLogic (CC By 4.0) からお借りしました。
 
 MIT Licence
+
+動画やブログなどで公開するときは、私の YouTube チャンネルのリンクなどを貼っていただけると嬉しいです。
