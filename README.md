@@ -4,21 +4,13 @@
 The Timer for stretch or training.
 
 
-<br>
+
+**[こちら](https://musemyuzu.github.io/ExerciseTimer/)から遊べます。**
 
 ![アプリのイメージ](TimerImage.png)
 
-[こちら](https://musemyuzu.github.io/ExerciseTimer/)から遊べます。
-
-# システム要件
-パソコン推奨。スマホだと数字が入力できません。<br>
-
-- Windows10
-- Chrome
-
-で動作確認済み
-
-Unity WebGL でビルドしました。
+# 概要
+インターバルのある運動で役立ちます！
 
 # 使い方
 ３つの枠に数字を入力しスタートを押すと、タイマーが起動します。<br>
@@ -31,12 +23,30 @@ Unity WebGL でビルドしました。
 
 と入力してください。
 
+<br>
+
+最初にインターバル10秒を挟み、それから30秒のストレッチが始まります。<br>
+タイマーが
+- 明るいピンク → ストレッチ中
+- 暗いピンク → インターバル中
+
+です。
+
 詳しい使い方は動画でも紹介しています。
 
-# 参照
+# システム要件
+パソコン推奨。スマホだと数字が入力できません。<br>
+
+- Windows10
+- Chrome
+
+で動作確認済み
+
+Unity WebGL でビルドしました。
+
+# リンク
 紹介動画は[こちら](https://youtu.be/a8VNQ5FaQl0)
 
-# 私について
 YouTube チャンネルは[こちら](https://www.youtube.com/channel/UC71_UDvWYvzwG6y4rDdH4Kg)
 
 Twitter は[こちら](https://twitter.com/musemyuzu)
@@ -46,4 +56,3 @@ Twitter は[こちら](https://twitter.com/musemyuzu)
 
 MIT Licence
 
-動画やブログなどで公開するときは、私の YouTube チャンネルのリンクなどを貼っていただけると嬉しいです。
